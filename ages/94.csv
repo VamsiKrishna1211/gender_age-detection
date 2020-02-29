@@ -1,0 +1,6 @@
+path,out_ages,out_genders,face_scores
+./Dataset-copy/imdb_faces/imdb_crop/71/nm0633271_rm2560596224_1913-1-9_2007.jpg,94,1,3.5520703030141254
+./Dataset-copy/imdb_faces/imdb_crop/84/nm0001784_rm2627771136_1910-7-4_2005.jpg,94,0,3.279178378300996
+./Dataset-copy/imdb_faces/imdb_crop/19/nm0908919_rm2550563072_1915-12-7_2010.jpg,94,1,2.982241844186976
+./Dataset-copy/imdb_faces/imdb_crop/74/nm0746674_rm711429376_1916-1-23_2010.jpg,94,0,3.373263357920792
+./Dataset-copy/imdb_faces/imdb_crop/84/nm0001784_rm2644548352_1910-7-4_2005.jpg,94,0,4.641400525449846
