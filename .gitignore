@@ -4,6 +4,9 @@ baseline_age.h5
 test_images_np.npy
 baseline_gender.h5
 /data/
+imdb_age_recog_weights.h5
+mobilenet_1_0_224_tf_no_top.h5
+face_filtered_greater_4.npy
 imdb_test_images.npy
 imdb_test_labels.npy
 ./imdb_age_recog_weights.h5
