@@ -11,3 +11,17 @@ imdb_test_images.npy
 imdb_test_labels.npy
 ./imdb_age_recog_weights.h5
 ./imdb_age_recog_weights.h5
+imdb_age_recog_weights-acc-24.h5
+inception_resnet_v2_weights_tf_dim_ordering_tf_kernels_notop.h5
+/imdb_images_32x32
+/imdb_images_64x64
+/logs
+./imdb_age_recog_weights-acc-24-inc-res.h5
+./NASNet-large-no-top.h5
+./test_images_np.npy
+./imdb_test_images.npy
+./imdb_test_labels.npy
+./Dataset-copy.zip
+/Dataset-copy.zip
+NASNet-large-no-top.h5
+imdb_age_recog_weights-acc-24-inc-res.h5
