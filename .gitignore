@@ -25,3 +25,4 @@ inception_resnet_v2_weights_tf_dim_ordering_tf_kernels_notop.h5
 /Dataset-copy.zip
 NASNet-large-no-top.h5
 imdb_age_recog_weights-acc-24-inc-res.h5
+*.h5
